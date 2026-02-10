@@ -53,8 +53,6 @@ This repository contains the projects developed for the **AN2DL** course at **Po
 ---
 
 ## 📂 Repository Structure
-```text
-.
 ├── [Homework 1/](./Homework%201/)
 │   ├── [AN2DL_HW1_BloodCellClassification.ipynb](./Homework%201/AN2DL_HW1_BloodCellClassification.ipynb)
 │   └── [AN2DL_Homework_1_Report.pdf](./Homework%201/AN2DL_Homework_1_Report.pdf)
@@ -63,3 +61,12 @@ This repository contains the projects developed for the **AN2DL** course at **Po
 │   └── [AN2DL_Homework_2_Report.pdf](./Homework%202/AN2DL_Homework_2_Report.pdf)
 ├── [LICENSE](./LICENSE)
 └── README.md
+
+
+* 📂 [**Homework 1**](./Homework%201/): **Blood Cell Classification** (8 classes).
+    * 📄 [Training Notebook](./Homework%201/AN2DL_HW1_BloodCellClassification.ipynb): Implementation of **ConvNeXtBase** with transfer learning and fine-tuning.
+    * 📕 [Technical Report](./Homework%201/AN2DL_Homework_1_Report.pdf): Analysis of data cleaning (1800+ images removed) and results (80% accuracy).
+* 📂 [**Homework 2**](./Homework%202/): **Mars Terrain Segmentation** (5 classes).
+    * 📄 [Segmentation Notebook](./Homework%202/AN2DL_HW2_MarsTerrainSegmentation.ipynb): Custom **U-Net++** with **PAN** and **SE blocks** trained from scratch.
+    * 📕 [Technical Report](./Homework%202/AN2DL_Homework_2_Report.pdf): Documentation on architecture design and hybrid loss (Focal + Dice).
+* ⚖️ [**MIT License**](./LICENSE): Terms of use for this repository.
