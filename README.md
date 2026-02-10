@@ -54,10 +54,12 @@ This repository contains the projects developed for the **AN2DL** course at **Po
 
 ## 📂 Repository Structure
 ```text
-├── Homework 1/
-│   ├── AN2DL_HW1_BloodCellClassification.ipynb  # Optimized Notebook
-│   └── AN2DL_Homework_1_Report.pdf              # Technical documentation
-├── Homework 2/
-│   ├── AN2DL_HW2_MarsTerrainSegmentation.ipynb  # Optimized Notebook
-│   └── AN2DL_Homework_2_Report.pdf              # Technical documentation
+.
+├── [Homework 1/](./Homework%201/)
+│   ├── [AN2DL_HW1_BloodCellClassification.ipynb](./Homework%201/AN2DL_HW1_BloodCellClassification.ipynb)
+│   └── [AN2DL_Homework_1_Report.pdf](./Homework%201/AN2DL_Homework_1_Report.pdf)
+├── [Homework 2/](./Homework%202/)
+│   ├── [AN2DL_HW2_MarsTerrainSegmentation.ipynb](./Homework%202/AN2DL_HW2_MarsTerrainSegmentation.ipynb)
+│   └── [AN2DL_Homework_2_Report.pdf](./Homework%202/AN2DL_Homework_2_Report.pdf)
+├── [LICENSE](./LICENSE)
 └── README.md
