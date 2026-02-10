@@ -41,7 +41,7 @@ This repository contains the projects developed for the **AN2DL** course at **Po
 
 
 ### Results
-* **Performance:** The final configuration (U-Net++ + PAN + SE + Augmentation) achieved a Mean IoU (**mIoU**) of **0.63753**.
+* **Performance:** The final configuration achieved a Mean IoU (**mIoU**) of **0.60475** on the competition leaderboard.
 
 ---
 
